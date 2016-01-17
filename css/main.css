@@ -1,0 +1,105 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+   background:#d3d3d3;
+   margin-top: 10px;
+   padding-top: 5px;
+}
+.container{
+   border:solid 2em #fff;
+}
+
+.border-color{
+   border-bottom:solid 2em #DE1515;
+}
+.company{
+   background: transparent url("../img/name-bg.jpg") repeat-x scroll center center;
+   text-align: center;
+   color:#ff0000;
+   padding-top:50px;
+}
+
+.slogan1{
+   margin-top:100px;
+   color:#fff;
+   background-color:rgba(42, 42, 58, 0.79);
+   background-clip:content-box;
+}
+
+.slogan2{
+   color:#fff;
+   background-color:rgba(42, 42, 58, 0.79);
+}
+
+.slogan3{
+   color:#fff;
+   background-color:rgba(42, 42, 58, 0.79);
+}
+
+.detail{
+   background:#fff;
+   border-left:solid 2px #DE1515;
+}
+.detail h2{
+   color:#fff;
+   background-color:#ff0000;
+   margin-right: 300px;
+   padding-left:10px;
+   opacity:0.7;
+   border-right:solid 2em green;
+}
+
+.detail h2:hover{
+   opacity:0.9;
+}
+
+ul {
+    display: block;
+    list-style-type: square;
+    margin: 1em 0;
+    padding-left: 40px;
+}
+
+.fa-4x{
+   font-size:10em;
+}
+
+.fa-3x{
+   font-size:7em;
+   opacity:0.6;
+   color:red;
+   float: left;
+}
+.address{
+   margin-top:156px;
+   color:#fff;
+   background:#DE1515;
+}
+
+.mobile{
+   font-size:5em;
+}
+
+.map{
+   font-size:5em;
+}
+
+.web{
+   color:#fff;
+}
+.website{
+   font-size:5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
